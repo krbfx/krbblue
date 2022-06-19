@@ -1,4 +1,4 @@
-# README
+
 ##This is the README for your extension "krbblue"\
 
 # Installation
@@ -15,5 +15,3 @@ Optional: Use the recommended settings below for best experience
 
 ### For more information
 https://github.com/krbfx
-
-**Enjoy!**
