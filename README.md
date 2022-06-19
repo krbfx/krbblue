@@ -10,6 +10,3 @@ Search for Krb_Blue.
 Click Install to install it.
 
 Code > Preferences > Color Theme > Krb_Blue
-
-Optional: Use the recommended settings below for best experience
-## Thank You
