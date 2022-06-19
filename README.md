@@ -1,6 +1,4 @@
 
-##This is the README for your extension "krbblue"\
-
 #Install
 
 Open Extensions sidebar panel in VS Code. View → Extensions
