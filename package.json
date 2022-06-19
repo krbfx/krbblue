@@ -2,7 +2,7 @@
     "name": "krbblue",
     "displayName": "Krb_Blue",
     "description": "A Visual Studio Theme Based on Ocean",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "KUSHALSAHA",
     "repository": {
         "type": "git",
@@ -12,7 +12,15 @@
         "vscode": "^1.68.0"
     },
     "keywords": [
-        "theme","dark theme","Ocean","Blue","Pleasing","Monokai inspired","Krb_Blue ","Krb blue dark"],
+        "theme",
+        "dark theme",
+        "Ocean",
+        "Blue",
+        "Pleasing",
+        "Monokai inspired",
+        "Krb_Blue ",
+        "Krb blue dark"
+    ],
     "categories": [
         "Themes"
     ],
