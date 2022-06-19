@@ -12,6 +12,3 @@ Click Install to install it.
 Code > Preferences > Color Theme > Krb_Blue
 
 Optional: Use the recommended settings below for best experience
-
-### For more information
-https://github.com/krbfx
