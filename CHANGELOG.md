@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "krbblue" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+Update 20 Jun: 
+Made some changes in reamme.md file.
+fixed hover issues on tabs.
+# Unreleased
