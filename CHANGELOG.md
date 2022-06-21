@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.3.0
+## 0.5.0
 
 Hurry! Our theme now has its own icon.
 
