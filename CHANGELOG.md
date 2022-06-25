@@ -1,9 +1,9 @@
-# Change Log
 
-## 0.5.0
+## 25 June 2022 (Major)
+-Changes in borders to make it more interesting.
+-removed version number in changelogs.
+-fixed other issues
 
-Hurry! Our theme now has its own icon.
-
-## 0.2.0
+## 0.2.0 (Minor)
 Made some changes in reamme.md file.
 fixed hover issues on tabs.
