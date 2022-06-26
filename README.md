@@ -1,20 +1,22 @@
-![image](https://user-images.githubusercontent.com/99195543/174652423-4787ee14-53cb-4a9a-ad89-0cc26b331243.png)
-![image](https://user-images.githubusercontent.com/99195543/174652599-5f13d2fd-2579-4152-8336-e968dbd1ea14.png)
-![image](https://user-images.githubusercontent.com/99195543/174652644-c76b35f2-8773-4520-86c0-6552762d7151.png)
-![image](https://user-images.githubusercontent.com/99195543/174652774-8e353f7d-30d7-4348-8914-eadbc39be303.png)
-![image](https://user-images.githubusercontent.com/99195543/174652808-2415e513-6535-4216-ac2d-f7e5b35fd147.png)
-![image](https://user-images.githubusercontent.com/99195543/174653156-2736e9d8-018f-42d0-aa4e-37cd013efd7b.png)
+# Krb_Blue Theme for VS Code
+[![Version](https://vsmarketplacebadge.apphb.com/version/KUSHALSAHA.krbblue.svg)](https://marketplace.visualstudio.com/items?itemName=KUSHALSAHA.krbblue)
+![Preview](https://user-images.githubusercontent.com/99195543/175822021-d6507d39-9014-4dea-885f-06a6a89e3904.png)
+
+# Installation
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Krb_Blue` - find the one by **KUSHAL SAHA**
+3. Click **Install** to install it.
+4. Code > Preferences > Color Theme > **Krb_Blue**
 
 
+# More Screenshots
 
-## Install
+![Screenshot (36)](https://user-images.githubusercontent.com/99195543/175821549-c3831505-5913-4841-bcaa-20ffb5e1528f.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/99195543/175821531-656173cc-3c17-4a2f-854b-e81a171e42ee.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/99195543/175821523-ffbe50b9-fe9f-498f-bfbe-5960b3817f69.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/99195543/175821521-efd43d01-f82d-4e1e-843b-b9769dee1e74.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/99195543/175821511-b8040b9c-ce0f-443e-b847-7e250008c985.png)
 
-Open Extensions sidebar panel in VS Code. View → Extensions
-
-Search for Krb_Blue.
-
-Click Install to install it.
-
-Code > Preferences > Color Theme > Krb_Blue
-
-## Thank You !
+## Inspiration 
+**Colbalt2** by **Wes Bos**
