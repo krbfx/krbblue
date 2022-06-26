@@ -19,4 +19,4 @@
 ![Screenshot (42)](https://user-images.githubusercontent.com/99195543/175821511-b8040b9c-ce0f-443e-b847-7e250008c985.png)
 
 ## Inspiration 
-**Colbalt2** by **Wes Bos**
+**Cobalt2** by **Wes Bos**
