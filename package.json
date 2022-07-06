@@ -31,11 +31,7 @@
                 "label": "Krb_Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Krb_Blue-color-theme.json",
-                
-                "label": "Krb_Violet",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Krb_Violet-color-theme.json"
-            }
+              
         ]
        
     }
